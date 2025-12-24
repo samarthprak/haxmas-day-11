@@ -1,7 +1,7 @@
 ---
 title: Banana Powered Thoughts
 description: Absolutely serious thoughts written at 2 AM
-pubDate: Oct 01 2025
+pubDate: Dec 24 2025
 ---
 
 # I Have No Idea What I Am Doing
